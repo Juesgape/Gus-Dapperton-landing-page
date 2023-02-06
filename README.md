@@ -1,4 +1,4 @@
-# Gus-Dapperton-landin-page
+# Gus-Dapperton-landing-page
 
 Basic landing page where I connected to the YouTube API and got my favorite album from my favorite singer, in this project I used Tailwind, Javascript and html
 
